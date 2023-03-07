@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.left a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.right a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-right: 15px;
+}
+
+#right-button{
+    background-color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#right-button:hover{
+    background-color: #198754;
+    color:#ffffff
+}
+
+

@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+img{
+  height: 250px;
+  width: 100%;
+  object-fit: contain;
+}
+
+label{
+  display: block;
+}
+ 
+form button{
+  background-color: rgb(233, 224, 224);
+  border: none;
+  color: #198754;
+  padding: 5px 13px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+form button:hover{
+  color: #ffffff;
+  background-color: #198754 !important;
+}
+
+
+
+
+
+
+
+
+
